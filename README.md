@@ -5,11 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadilcse5bu" alt="fadilcse5bu" /></a> </p> -->
 
-- 🔭 I’m currently working on **Problem solving**
+- 🔭 At present I'm working on **Problem solving**
 
-- 🌱 I’m currently learning **Algorithm & data structure**
+- 🌱 Currently I'm learning **Algorithm & data structure**
 
-- 💬 Ask me about **Programming in c & c++**
+- 💬 You can ask me about **Programming in c & c++**
 
 - 📫 How to reach me **fadil.cse5.bu@gmail.com**
 
