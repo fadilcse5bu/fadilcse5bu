@@ -11,7 +11,7 @@
 
 - 💬 You can ask me about **Programming in c & c++**
 
-- 📫 How to reach me **fadil.cse5.bu@gmail.com**
+- 📫 Email: **fadil.cse5.bu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
