@@ -1,6 +1,7 @@
 <h1 align="center">Hi, Welcome to my github account</h1>
 <h3 align="center">About me</h3>
-<h4> A passionate competitive programmer from Bangladesh</h4>
+<h4 align="center">A passionate competitive programmer from Bangladesh</h4>
+<h4 align="center"> Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadilcse5bu&label=Profile%20views&color=0e75b6&style=flat" alt="fadilcse5bu" /> </p>
 
