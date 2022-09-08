@@ -1,5 +1,6 @@
 <h1 align="center">Hi, Welcome to my github account</h1>
-<h3 align="center">About me = A passionate competitive programmer from Bangladesh</h3>
+<h3 align="center">About me</h3>
+<h4> A passionate competitive programmer from Bangladesh</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadilcse5bu&label=Profile%20views&color=0e75b6&style=flat" alt="fadilcse5bu" /> </p>
 
