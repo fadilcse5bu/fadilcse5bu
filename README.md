@@ -8,7 +8,8 @@
 - 🌱 Currently I'm learning **Advance data structure & Algorithm**
 
 <h3 align="left">Connect with me:</h3>
-Email: **fadil.cse5.bu@gmail.com**
+Email: fadil.cse5.bu@gmail.com
+LinkedIn: linkedin.com/in/md-saidul-islam-9310311a2
 <p align="left">
 <a href="https://www.linkedin.com/in/md-saidul-islam-9310311a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-saidul-islam-9310311a2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fadil" height="30" width="40" /></a>
