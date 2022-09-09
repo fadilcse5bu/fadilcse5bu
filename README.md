@@ -5,7 +5,7 @@
 
 <div>
   <div width="400px" height="400px">
-    <h3>Online judge Account:</h3>
+    <h3 width="10px">Online judge Account:</h3>
     <ul>
       <li>Leetcode</li>
       <li>Lightoj</li>
