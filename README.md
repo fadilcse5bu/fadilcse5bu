@@ -7,8 +7,8 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
-<div style="float:left; width:50%">
+<td valign="top" width="100%">
+<div style="float:left; width:100%">
     <h3 style="margin-bottom:0">Connect with me:</h3>
     <ul style="margin-top:0;padding-left:20px">
       <li>Gmail</li>
