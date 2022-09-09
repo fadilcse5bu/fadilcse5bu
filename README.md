@@ -2,15 +2,12 @@
 <body>
 <h1 align="center">Hi, Welcome to my github account</h1>
 
-<div width="800px">
-  <h3 style="float:left">About me</h3>
-  <h3 style="float:left">About me2</h3>
-</div>
+<h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<div>
-  <div width="400px" height="400px">
-    <h3 width="10px">Online judge Account:</h3>
+<div margin-top="100px">
+  <div>
+    <h3>Online judge Account:</h3>
     <ul>
       <li>Leetcode</li>
       <li>Lightoj</li>
