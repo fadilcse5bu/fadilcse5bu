@@ -5,7 +5,7 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div>
 
      
 
