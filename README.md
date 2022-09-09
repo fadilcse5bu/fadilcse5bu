@@ -5,16 +5,16 @@
 
 <div>
   <div align="left" width="400px">
-    <h3 style="margin-bottom:0">Connect with me:</h3>
-    <ul style="margin-top:0;padding-left:20px">
+    <h3>Connect with me:</h3>
+    <ul>
       <li>Gmail</li>
       <li>Linkedin</li>
       <li>Discord</li>
     </ul>
   </div>
-  <div align="left" width="400px">
-    <h3 style="margin-bottom:0">Online judge Account:</h3>
-    <ul style="margin-top:0;padding-left:20px">
+  <div width="400px">
+    <h3>Online judge Account:</h3>
+    <ul>
       <li>Leetcode</li>
       <li>Lightoj</li>
       <li>Codeforces</li>
