@@ -39,8 +39,8 @@
 </div><br>
 
 <div align="center">
-  <img width = "400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadilcse5bu&show_icons=true&locale=en&layout=compact"     alt="fadilcse5bu" /> 
-  <img width = "400px" src="https://github-readme-stats.vercel.app/api?username=fadilcse5bu&show_icons=true&locale=en" alt="fadilcse5bu" />
+  <img align="left" width = "400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadilcse5bu&show_icons=true&locale=en&layout=compact"     alt="fadilcse5bu" /> 
+  <img align="right" width = "400px" src="https://github-readme-stats.vercel.app/api?username=fadilcse5bu&show_icons=true&locale=en" alt="fadilcse5bu" />
 </div>
 </body>
 </html>
