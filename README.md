@@ -2,9 +2,9 @@
 <body>
 <h1 align="center">Hi, Welcome to my github account</h1>
 
-<div display="inline">
-  <h3 style="display: inline; width=400px; float="left">About me</h3>
-  <h3 style="display: inline; width=400px; float:left">About me2</h3>
+<div width="800px">
+  <h3 style="float:left">About me</h3>
+  <h3 style="float:left">About me2</h3>
 </div>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
