@@ -7,10 +7,10 @@
 
 <table align="center">
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 <h3>Recent releases</h3>
 </td>
-<td valign="top" width="34%">
+<td valign="top" width="50%">
 ### On my blog
 </td>
 </tr></table>
