@@ -5,9 +5,9 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<table style="align:center; margin-right:0px; margin-left:0px; margin-bottom:0px;">
+<table style="align:center;">
 <tbody width="100%">
-<tr>
+<tr width="100%">
 <td valign="top" width="50%">
 <div>
   <h3>Connect with me:</h3>
