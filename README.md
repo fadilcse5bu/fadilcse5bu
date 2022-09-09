@@ -5,14 +5,16 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<table><tr><td valign="top" width="33%">
+<table>
+<tr>
+<td valign="top" width="33%">
 ### Recent releases
 [datasette-upload-csvs 0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - 2022-09-08
-</td><td valign="top" width="34%">
+</td>
+<td valign="top" width="34%">
 ### On my blog
-</td><td valign="top" width="33%">
-### TIL
-</td></tr></table>
+</td>
+</tr></table>
 
 <div style="margin-top:100px; padding-top:200px">
   <div>
