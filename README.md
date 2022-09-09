@@ -3,8 +3,8 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<div width="600px">
-  <div width="300px" align="left">
+<div>
+  <div width="400px" align="left">
     <h3>Connect with me:</h3>
     <ul>
       <li>Gmail</li>
@@ -12,7 +12,7 @@
       <li>Discord</li>
     </ul>
   </div>
-  <div width="300px" align="right">
+  <div width="400px">
     <h3>Account of some online judge:</h3>
     <ul>
       <li>Leetcode</li>
