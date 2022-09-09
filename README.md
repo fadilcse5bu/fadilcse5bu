@@ -1,8 +1,10 @@
 <h1 align="center">Hi, Welcome to my github account</h1>
 
 <div>
-  <code>About me</code>
-  <code>About me2</code>
+  <code>
+    <h3>About me</h3>
+    <h3>About me2</h3>
+  </code>
 </div>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
