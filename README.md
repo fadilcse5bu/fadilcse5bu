@@ -4,9 +4,6 @@
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
 <div>
-
-    <span width="40px">Connect with me:</span>
-
   <div width="400px">
     <h3>Online judge Account:</h3>
     <ul>
