@@ -3,12 +3,25 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<h3 align="left">Connect with me:</h3>
-<ul>
-  <li>Gmail</li>
-  <li>Linkedin</li>
-  <li>Discord</li>
-</ul>
+<div>
+  <div width="300px">
+    <h3 align="left">Connect with me:</h3>
+    <ul>
+      <li>Gmail</li>
+      <li>Linkedin</li>
+      <li>Discord</li>
+    </ul>
+  </div>
+  <div width="300px">
+    <h3 align="right">Account of some online judge:</h3>
+    <ul>
+      <li>Leetcode</li>
+      <li>Lightoj</li>
+      <li>Codeforces</li>
+      <li>Codechef</li>
+    </ul>
+  </div>
+</div>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/md-saidul-islam-9310311a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-saidul-islam-9310311a2" height="30" width="40" /></a>
