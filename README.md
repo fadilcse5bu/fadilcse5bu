@@ -7,6 +7,7 @@
 
 <table><tr><td valign="top" width="33%">
 ### Recent releases
+[datasette-upload-csvs 0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - 2022-09-08
 </td><td valign="top" width="34%">
 ### On my blog
 </td><td valign="top" width="33%">
