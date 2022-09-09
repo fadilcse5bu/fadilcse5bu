@@ -11,7 +11,7 @@
 <div>
   <h3>Connect with me:</h3>
   <ul>
-    <li>Gmail</li>
+    <li><a href="fadil.cse5.bu@gmail.com">Gmail</a></li>
     <li>Linkedin</li>
     <li>Discord</li>
   </ul>
@@ -31,6 +31,7 @@
 </td>
 </tbody>
 </tr></table><br>
+
 
 <div align="center">
 <h3>Languages and Tools:</h3>
