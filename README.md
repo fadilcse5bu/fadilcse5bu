@@ -5,9 +5,9 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<table>
+<table width="100%">
 <tr width="100%">
-<td width="50%">
+<td width="33%">
 ### Recent releases
 </td>
 <td width="34%">
