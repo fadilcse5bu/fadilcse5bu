@@ -5,7 +5,7 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<div margin-top="100px">
+<div style="margin-top:100px">
   <div>
     <h3>Online judge Account:</h3>
     <ul>
