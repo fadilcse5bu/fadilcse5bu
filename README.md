@@ -5,9 +5,8 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<table align="center">
-<tbody width="100%">
-<tr width="500px">
+<table align="center" width="960px">
+<tr>
 <td valign="top" width="50%">
 [datasette-upload-csvs 0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - 2022-09-08
 <div>
