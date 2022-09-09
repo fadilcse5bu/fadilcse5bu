@@ -4,7 +4,7 @@
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
 <div>
-  <div align="left" width="400px" display="inline">
+  <div align="left" width="40px" backgroun-color="red">
     <h3>Connect with me:</h3>
     <ul>
       <li>Gmail</li>
