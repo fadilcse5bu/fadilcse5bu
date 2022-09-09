@@ -12,7 +12,7 @@
       <li>Discord</li>
     </ul>
   </div>
-  <div style="float:left; width:50%">
+  <div float="left">
     <h3 style="margin-bottom:0">Online judge Account:</h3>
     <ul style="margin-top:0;padding-left:20px">
       <li>Leetcode</li>
