@@ -6,6 +6,7 @@
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
 <table align="center" margin-left="0px">
+<tbody width="100%">
 <tr>
 <td valign="top" width="50%">
 <div style="float:left; width:50%">
@@ -29,6 +30,7 @@
     </ul>
   </div>
 </td>
+</tbody>
 </tr></table>
 
 <div style="margin-top:100px; padding-top:200px">
