@@ -20,5 +20,5 @@ LinkedIn: linkedin.com/in/md-saidul-islam-9310311a2
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fadilcse5bu&show_icons=true&locale=en&layout=compact" alt="fadilcse5bu" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fadilcse5bu&show_icons=true&locale=en" alt="fadilcse5bu" /></p>
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fadilcse5bu&show_icons=true&locale=en" alt="fadilcse5bu" /></p>
 
