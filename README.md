@@ -5,14 +5,13 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<div style="display: flex; flex-wrap: wrap; height: 100%; width: 100%;">
-  <div style="display: flex; flex-wrap: wrap; height: 100%; width: 100%;">
-    <div style="display: flex; flex-wrap: wrap; height: 100%; width: 100%;">Angular</div>
-    <div style="display: flex; flex-wrap: wrap; height: 100%; width: 100%;">Vue(X)</div>
-    <div style="display: flex; flex-wrap: wrap; height: 100%; width: 100%;">JavaScript</div>
-    <div style="display: flex; flex-wrap: wrap; height: 100%; width: 100%;">TypeScript</div>
-  </div>
-</div>
+<table><tr><td valign="top" width="33%">
+### Recent releases
+</td><td valign="top" width="34%">
+### On my blog
+</td><td valign="top" width="33%">
+### TIL
+</td></tr></table>
 
 <div style="margin-top:100px; padding-top:200px">
   <div>
