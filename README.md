@@ -3,7 +3,7 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<div>
+<div width="600px">
   <div width="300px">
     <h3 align="left">Connect with me:</h3>
     <ul>
