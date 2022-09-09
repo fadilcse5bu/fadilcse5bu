@@ -1,6 +1,9 @@
 <h1 align="center">Hi, Welcome to my github account</h1>
 
-<h3 align="center">About me</h3>
+<div>
+  <h3 align="center" float="left" width="300px">About me</h3>
+  <h3 align="center" float="left" width="300px">About me2</h3>
+</div>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
 <div>
