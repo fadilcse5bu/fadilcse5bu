@@ -8,10 +8,26 @@
 <table align="center">
 <tr>
 <td valign="top" width="50%">
-<h3>Recent releases</h3>
+<div style="float:left; width:50%">
+    <h3 style="margin-bottom:0">Connect with me:</h3>
+    <ul style="margin-top:0;padding-left:20px">
+      <li>Gmail</li>
+      <li>Linkedin</li>
+      <li>Discord</li>
+    </ul>
+  </div>
 </td>
 <td valign="top" width="50%">
-### On my blog
+<div style="float:left; width:50%">
+    <h3 style="margin-bottom:0">Online judge Account:</h3>
+    <ul style="margin-top:0;padding-left:20px">
+      <li>Leetcode</li>
+      <li>Lightoj</li>
+      <li>Codeforces</li>
+      <li>Codechef</li>
+	  <li>CSES</li>
+    </ul>
+  </div>
 </td>
 </tr></table>
 
