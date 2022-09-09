@@ -5,28 +5,7 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<div>
-<style>
-.tags {
-display: flex;
-flex-wrap: wrap;
-height: 100%;
-width: 100%;
-}
-.tag {
-background-color: #E3FFFF;
-border-radius: 0.25em;
-color: #0ca4a5;
-border: 1px solid #0ca4a5;
-display: inline-block;
-font-size: 0.75em;
-line-height: 2em;
-margin: 0.125em;
-padding: 0 0.5em;
-text-decoration: none;
-font-family: sans-serif;
-}
-</style>
+<div style="display: flex; flex-wrap: wrap; height: 100%; width: 100%;">
 <div class="tags">
 <div class="tag">Angular</div>
 <div class="tag">Vue(X)</div>
