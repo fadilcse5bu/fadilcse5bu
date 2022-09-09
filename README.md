@@ -5,12 +5,7 @@
 
 <div>
   <div align="left" width="40px" backgroun-color="red">
-    <h3>Connect with me:</h3>
-    <ul>
-      <li>Gmail</li>
-      <li>Linkedin</li>
-      <li>Discord</li>
-    </ul>
+    <h3 width="40px">Connect with me:</h3>
   </div>
   <div width="400px">
     <h3>Online judge Account:</h3>
