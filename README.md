@@ -11,7 +11,6 @@
 ### On my blog
 </td><td valign="top" width="33%">
 ### TIL
-More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
 
 <div style="margin-top:100px; padding-top:200px">
