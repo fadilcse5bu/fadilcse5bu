@@ -5,7 +5,7 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-<table align="center" margin-left="0px">
+<table style="align:center; margin-left:0px; margin-bottom:0px;">
 <tbody width="100%">
 <tr>
 <td valign="top" width="50%">
