@@ -9,6 +9,7 @@
 <tbody width="100%">
 <tr width="500px">
 <td valign="top" width="50%">
+[datasette-upload-csvs 0.8.2](https://github.com/simonw/datasette-upload-csvs/releases/tag/0.8.2) - 2022-09-08
 <div>
   <h3>Connect with me:</h3>
   <ul>
