@@ -5,24 +5,24 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
-    <div>
-      <div class="tags">
-        <div class="tag">Angular</div>
-        <div class="tag">Vue(X)</div>
-        <div class="tag">JavaScript</div>
-        <div class="tag">TypeScript</div>
-      </div>
-      <div class="tags">
-        <div class="tag">(S)CSS</div>
-        <div class="tag">Building UIs</div>
-        <div class="tag">Web Components</div>
-      </div>
-      <div class="tags">
-        <div class="tag">Ionic</div>
-        <div class="tag">Electron</div>
-        <div class="tag">.NET</div>
-      </div>
-    </div>
+<div>
+<div class="tags">
+<div class="tag">Angular</div>
+<div class="tag">Vue(X)</div>
+<div class="tag">JavaScript</div>
+<div class="tag">TypeScript</div>
+</div>
+<div class="tags">
+<div class="tag">(S)CSS</div>
+<div class="tag">Building UIs</div>
+<div class="tag">Web Components</div>
+</div>
+<div class="tags">
+<div class="tag">Ionic</div>
+<div class="tag">Electron</div>
+<div class="tag">.NET</div>
+</div>
+</div>
 
 
 
