@@ -4,7 +4,12 @@
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
 <h3 align="left">Connect with me:</h3>
-<ul><li>Gmail</li><li>Linkedin</li><li>Codeforces</li></ul>
+<ul>
+  <li>Gmail</li>
+  <li>Linkedin</li>
+  <li>Discord</li>
+</ul>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/md-saidul-islam-9310311a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/md-saidul-islam-9310311a2" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fadil" height="30" width="40" /></a>
