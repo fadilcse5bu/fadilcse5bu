@@ -4,16 +4,16 @@
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
 <div width="600px">
-  <div width="300px">
-    <h3 align="left">Connect with me:</h3>
+  <div width="300px" align="left">
+    <h3>Connect with me:</h3>
     <ul>
       <li>Gmail</li>
       <li>Linkedin</li>
       <li>Discord</li>
     </ul>
   </div>
-  <div width="300px">
-    <h3 align="right">Account of some online judge:</h3>
+  <div width="300px" align="right">
+    <h3>Account of some online judge:</h3>
     <ul>
       <li>Leetcode</li>
       <li>Lightoj</li>
