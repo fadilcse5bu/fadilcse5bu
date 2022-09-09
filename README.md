@@ -1,11 +1,7 @@
 <h1 align="center">Hi, Welcome to my github account</h1>
+
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadilcse5bu&label=Profile%20views&color=0e75b6&style=flat" alt="fadilcse5bu" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fadilcse5bu" alt="fadilcse5bu" /></a> </p> -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
