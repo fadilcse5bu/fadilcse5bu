@@ -6,25 +6,11 @@
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4>
 
 <table><tr><td valign="top" width="33%">
-
 ### Recent releases
-<!-- recent_releases starts -->
-[datasette-edit-schema 0.5.1](https://github.com/simonw/datasette-edit-schema/releases/tag/0.5.1) - 2022-08-22
-<!-- recent_releases ends -->
-More [recent releases](https://github.com/simonw/simonw/blob/main/releases.md)
 </td><td valign="top" width="34%">
-
 ### On my blog
-<!-- blog starts -->
-[Plugin support for Datasette Lite](http://simonwillison.net/2022/Aug/17/datasette-lite-plugins/) - 2022-08-17
-<!-- blog ends -->
-More on [simonwillison.net](https://simonwillison.net/)
 </td><td valign="top" width="33%">
-
 ### TIL
-<!-- tils starts -->
-[SQLite VACUUM: database or disk is full](https://til.simonwillison.net/sqlite/vacum-disk-full) - 2022-08-29
-<!-- tils ends -->
 More on [til.simonwillison.net](https://til.simonwillison.net/)
 </td></tr></table>
 
