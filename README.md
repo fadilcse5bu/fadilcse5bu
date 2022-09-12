@@ -1,3 +1,6 @@
+<html>
+<body>
+
 <h2 align="center">Hi, Welcome to my Profile</h2>
 <img height="280px" width="100%" src="https://github.com/fadilcse5bu/fadilcse5bu/blob/main/img/cover.jpg">
 
@@ -41,4 +44,6 @@
   <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadilcse5bu&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
   <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api?username=fadilcse5bu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
+</body>
+</html>
 
