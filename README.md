@@ -1,6 +1,7 @@
 <html>
 <body>
-<h1 align="center">Hi, Welcome to my github account</h1>
+
+<img height="300px" width="100%" src="https://github.com/fadilcse5bu/fadilcse5bu/blob/main/img/cover.jpg">
 
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4><br>
