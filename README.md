@@ -1,6 +1,4 @@
-<html>
-<body>
-
+# Hi,
 <img height="300px" width="100%" src="https://github.com/fadilcse5bu/fadilcse5bu/blob/main/img/cover.jpg">
 
 <h3 align="center">About me</h3>
@@ -44,5 +42,3 @@
   <img height="180em" width="350px" src="https://github-readme-stats.vercel.app/api?username=fadilcse5bu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
-</body>
-</html>
