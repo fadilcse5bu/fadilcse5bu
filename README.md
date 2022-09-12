@@ -5,7 +5,7 @@
 <h3 align="center">About me</h3>
 <h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4><br>
 
-<h3 align="center">Connect With Me</h3>
+<h3 align="center">Reach Me On</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/saidul-islam-9310311a2/">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
