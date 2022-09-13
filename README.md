@@ -6,7 +6,7 @@
 
 <h3 align="center">About me</h3>
 <p>A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm. Some favorite topics are <b>Segment Tree, Hashing, Binary Search, Bitwise Sieve, Graph Theory(BFS, DFS, MST, Dijkstra, Topological Sort), Aho Corasick and Suffix Tree.</b></p>
-<p><b>Contact:</b> fadil.cse5.bu@gmail.com, +8801703331096</p>
+<p><b>Contact:</b> +8801703331096</p>
 <br>
 
 <h3 align="center">Reach Me On</h3>
