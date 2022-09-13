@@ -5,7 +5,7 @@
 <img height="280px" width="100%" src="https://github.com/fadilcse5bu/fadilcse5bu/blob/main/img/cover.jpg">
 
 <h3 align="center">About me</h3>
-<h4 align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm</h4><br>
+<p align="center">A passionate competitive programmer from Bangladesh. Till now, I'm learning Advance Data Structure & Algorithm. Some favorite topics are <b>Segment Tree, Hashing, Binary Search, Bitwise Sieve, Graph Theory(BFS, DFS, MST, Dijkstra, Topological Sort), Aho Corasick and Suffix Tree.</b></p><br>
 
 <h3 align="center">Reach Me On</h3>
 <p align="center">
