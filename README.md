@@ -44,9 +44,9 @@
 </p>
 </div>
 </br>
-
 <div align="center">
 <h3>Competitive Programming</h3>
+  
 | Codeforces                  |
 | ------------- |
 | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fadil)](https://codeforces.com/profile/fadil) |
