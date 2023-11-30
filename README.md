@@ -6,7 +6,7 @@
 
 <h3 align="center">About me</h3>
 <p>A passionate competitive programmer from Bangladesh. Currently I'm at the end of my graduation but till now, I'm learning Advance Data Structure & Algorithm. Some favorite topics are <b>DP, Segment Tree, Hashing, Sparse Table, Binary Search, Bitwise Sieve, Dijkstra.</b></p>
-<p><b>Contact:</b> +8801703331096</p>
+<p><b>Gmail:</b><a>fadil.cse5.bu@gmail.com</a></p>
 <br>
 
 <h3 align="center">Reach Me On</h3>
@@ -52,8 +52,8 @@
 
 # Problem Solving
 
-| Codeforces        | Leetcode           |
-| ------------- |:-------------:|
+| Codeforces        |
+| ------------- |
 | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fadil)](https://codeforces.com/profile/fadil) 
 <!-- | ![LeetCode Stats](https://leetcard.jacoblin.cool/sabir00?theme=nord&font=Anonymous%20Pro&ext=heatmap) | -->
 
