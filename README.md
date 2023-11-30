@@ -6,7 +6,7 @@
 
 <h3 align="center">About me</h3>
 <p>A passionate competitive programmer from Bangladesh. Currently I'm at the end of my graduation but till now, I'm learning Advance Data Structure & Algorithm. Some favorite topics are <b>DP, Segment Tree, Hashing, Sparse Table, Binary Search, Bitwise Sieve, Dijkstra.</b></p>
-<p><b>Gmail:</b><a>fadil.cse5.bu@gmail.com</a></p>
+<p><b>Contact: </b><a>fadil.cse5.bu@gmail.com</a></p>
 <br>
 
 <h3 align="center">Reach Me On</h3>
@@ -14,20 +14,14 @@
 <a href="https://www.linkedin.com/in/saidul-islam-9310311a2/">
   <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="mailto:fadil.cse5.bu.@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height=25>
-</a>
-  <a href="https://discord.com/channels/saidul_islam#0622">
-  <img src="https://img.shields.io/badge/Discord-485EF4?style=for-the-badge&logo=discord&logoColor=white" height=25>
-</a>
   <a href="https://codeforces.com/profile/fadil">
   <img src="https://img.shields.io/badge/Codeforces-1A92CF?style=for-the-badge&logo=codeforces&logoColor=white" height=25>
 </a>
-  <a href="https://leetcode.com/fadil_cse5_bu">
-  <img src="https://img.shields.io/badge/LeeCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height=25>
-</a>
   <a href="https://www.codechef.com/users/fadil_cse5_bu">
   <img src="https://img.shields.io/badge/Codechef-5F331D?style=for-the-badge&logo=codechef&logoColor=white" height=25>
+</a>
+  <a href="https://leetcode.com/fadil_cse5_bu">
+  <img src="https://img.shields.io/badge/LeeCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height=25>
 </a>
   <a href="https://www.hackerrank.com/fadil_cse5_bu">
   <img src="https://img.shields.io/badge/HackerRank-30?style=for-the-badge&logo=hackerrank&logoColor=white" height=25>
@@ -38,7 +32,7 @@
 </p>
 
 <div align="center">
-<h3>Basic knowledge on:</h3>
+<h3>Tech Stack</h3>
 <p> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
@@ -50,16 +44,13 @@
 </p>
 </div>
 
-# Problem Solving
-
+<div align="center">
+<h3>Competitive Programming</h3>
 | Codeforces        |
 | ------------- |
 | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fadil)](https://codeforces.com/profile/fadil) 
-| [![Codechef Stats](https://cp-logo.vercel.app/codechef/fadil_cse5_bu)](https://www.codechef.com/users/fadil_cse5_bu)
 <!-- | ![LeetCode Stats](https://leetcard.jacoblin.cool/sabir00?theme=nord&font=Anonymous%20Pro&ext=heatmap) | -->
-
-<!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sabir)](https://codeforces.com/profile/sabir)
-![LeetCode Stats](https://leetcard.jacoblin.cool/sabir00?theme=nord&font=Anonymous%20Pro&ext=heatmap) -->
+</div>
 
 </body>
 </html>
