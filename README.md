@@ -55,6 +55,7 @@
 | Codeforces        |
 | ------------- |
 | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fadil)](https://codeforces.com/profile/fadil) 
+| [![Codechef Stats](https://cp-logo.vercel.app/codechef/fadil_cse5_bu)](https://www.codechef.com/users/fadil_cse5_bu)
 <!-- | ![LeetCode Stats](https://leetcard.jacoblin.cool/sabir00?theme=nord&font=Anonymous%20Pro&ext=heatmap) | -->
 
 <!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sabir)](https://codeforces.com/profile/sabir)
