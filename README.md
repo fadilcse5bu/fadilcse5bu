@@ -45,7 +45,7 @@
 </div>
 
 <div align="center">
-# Problem Solving
+<h3>Competitive Programming</h3>
 
 | Codeforces                  |
 | ------------- |
