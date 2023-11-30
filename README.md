@@ -48,8 +48,7 @@
 | Codeforces        | Leetcode           |
 | ------------- |:-------------:|
 | [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=fadil)](https://codeforces.com/profile/fadil) |
-<!-- [![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=sabir)](https://codeforces.com/profile/sabir)
-![LeetCode Stats](https://leetcard.jacoblin.cool/sabir00?theme=nord&font=Anonymous%20Pro&ext=heatmap) -->
+
 </body>
 </html>
 
